@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!-- status -->
 <div>
   <a href="https://github.com/biancas0uz4">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Nobres-gui&theme=city_lights" />
-    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nobres-gui&layout=compact&langs_count=8&card_width=320&theme=city_lights" />
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=biancas0uz4&theme=city_lights" />
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biancas0uz4&layout=compact&langs_count=8&card_width=320&theme=city_lights" />
   </a>
 </div>
 <div style="display: inline_block"><br>
